@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Worker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1</id>
+  <dateRegistration>2024-02-06T13:22:59.9737664+03:00</dateRegistration>
+  <fullName>NAme</fullName>
+  <age>10</age>
+  <height>180</height>
+  <dateBirth>2024-02-06T13:22:59.9785777+03:00</dateBirth>
+  <placeBirth>SomePlace</placeBirth>
+</Worker>
